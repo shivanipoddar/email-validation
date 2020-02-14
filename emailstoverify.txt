@@ -1,10 +1,11 @@
-liliuwei@gmail.com
-jshapiro620@gmail.com
-katiethompson565@gmail.com
-lindastevens2368@gmail.com
-persedia4001@gmail.com
-acoudroumen@gmail.com
-bushrasoftech@gmail.com
-jyotiachina@gmail.com
-ufokart.sales@gmail.com
-rajib.job123@gmail.com
+# put your emails to validate here
+email1@gmail.com
+email1@gmail.com
+email15@gmail.com
+email1368@gmail.com
+email1001@gmail.com
+email1n@gmail.com
+email1@gmail.com
+email1@gmail.com
+email1@gmail.com
+email1@gmail.com
