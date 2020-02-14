@@ -47,7 +47,7 @@ def ve(enm):
 
 li = []
 if __name__ == "__main__":
-    with open('email.txt') as f: #open txt file in which all emails to be verified are written 
+    with open('emailstoverify.txt') as f: #open txt file in which all emails to be verified are written 
         lines = f.readlines()
     for x in range(len(lines)):
         lis = lines[x].split('\n')[0]
